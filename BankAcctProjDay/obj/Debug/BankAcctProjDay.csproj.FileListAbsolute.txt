@@ -1,0 +1,6 @@
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\BankAcctProjDay\BankAcctProjDay\bin\Debug\BankAcctProjDay.exe.config
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\BankAcctProjDay\BankAcctProjDay\bin\Debug\BankAcctProjDay.exe
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\BankAcctProjDay\BankAcctProjDay\bin\Debug\BankAcctProjDay.pdb
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\BankAcctProjDay\BankAcctProjDay\obj\Debug\BankAcctProjDay.csprojResolveAssemblyReference.cache
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\BankAcctProjDay\BankAcctProjDay\obj\Debug\BankAcctProjDay.exe
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\BankAcctProjDay\BankAcctProjDay\obj\Debug\BankAcctProjDay.pdb
