@@ -10,7 +10,11 @@ namespace BankAcctProjDay
     {
         //Freaking Fields
         private string name = "Harry Potter";
-        private string acctNumber = AccountNumber();
+        private string checkingAcctNumber = AccountNumber(omg);
+        private string reserveAcctNumber = AccountNumber(omg);
+        private string savingsAcctNumber = AccountNumber(omg);
+
+        static string omg = "omg";
 
         //Freaking Properties
         public string Name
@@ -18,17 +22,24 @@ namespace BankAcctProjDay
             get { return this.name; }
         }
 
-        public string AcctNumber
+        public string CheckingAcctNumber
         {
-            get { return this.acctNumber; }
+            get { return this.checkingAcctNumber; }
         }
-
+        public string ReserveAcctNumber
+        {
+            get { return this.reserveAcctNumber; }
+        }
+        public string SavingsAcctNumber
+        {
+            get { return this.savingsAcctNumber; }
+        }
         //Freaking Method
-        static string AccountNumber()
+        static string AccountNumber(string newAcctNumber)
         {
             Random randomness = new Random();
-            string acctNumber = randomness.Next(100000000, 999999999).ToString();
-            return acctNumber;
+            newAcctNumber = randomness.Next(100000000, 999999999).ToString();
+            return newAcctNumber;
 
         }
 
@@ -36,8 +47,11 @@ namespace BankAcctProjDay
         public Client()
         {
             this.name = "Harry Potter";
-            this.acctNumber = AccountNumber();
+            this.checkingAcctNumber = AccountNumber(omg);
+            this.reserveAcctNumber = AccountNumber(omg);
+            this.savingsAcctNumber = AccountNumber(omg);
+
         }
-        
+
     }
 }

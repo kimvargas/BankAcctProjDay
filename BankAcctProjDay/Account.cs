@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankAcctProjDay
 {
-    class Account
+    public class Account
     {
         string name = "Harry Potter";
         decimal balance = 1000000.00m;

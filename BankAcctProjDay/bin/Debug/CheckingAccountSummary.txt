@@ -1,0 +1,14 @@
+*****************GRINGOTTS BANKING SYSTEM*****************
+
+***** Checking Account Summary *****
+
+
+Account Number	Wizard Name
+218876788	Harry Potter
+
+
+Date and Time		Transaction	Balance
+
+3/7/2016 6:35:32 AM	+123		1000123.00
+3/7/2016 6:35:45 AM	+12		1000135.00
+3/7/2016 6:35:55 AM	+12345		1012480.00

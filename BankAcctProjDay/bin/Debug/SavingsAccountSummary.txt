@@ -1,0 +1,11 @@
+*****************GRINGOTTS BANKING SYSTEM*****************
+
+***** Savings Account Summary *****
+
+
+Account Number	Wizard Name
+218876788	Harry Potter
+
+
+Date and Time		Transaction	Balance
+
